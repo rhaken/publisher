@@ -15,4 +15,8 @@ Ini berarti bahwa publisher dan subscriber sedang berkomunikasi melalui pialang 
 # RunningRabbitMQ
 ![image](https://github.com/rhaken/publisher/assets/39646450/cbf617c4-74f3-4369-9b39-35d3bfcf795b)
 
+# MessageQueeProcessing
+![image](https://github.com/rhaken/publisher/assets/39646450/7d0c2ba3-8dc4-4af5-b898-1081ae20945d)
+
+
 
