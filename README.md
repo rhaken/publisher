@@ -8,3 +8,7 @@ Program publisher akan mengirimkan 5 pesan data ke pialang pesan dalam satu kali
 URL "amqp://guest:guest@localhost:5672" sama di kedua program publisher dan subscriber, yang berarti keduanya terhubung ke instance pialang pesan yang sama yang berjalan di localhost dengan port 5672.
 
 Ini berarti bahwa publisher dan subscriber sedang berkomunikasi melalui pialang pesan yang sama, memungkinkan mereka untuk bertukar pesan dengan lancar.
+
+# RunningRabbitMQ
+![image](https://github.com/rhaken/publisher/assets/39646450/05875998-5a68-465d-9689-5a3146607746)
+
