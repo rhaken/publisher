@@ -12,4 +12,7 @@ Ini berarti bahwa publisher dan subscriber sedang berkomunikasi melalui pialang 
 # RunningRabbitMQ
 ![image](https://github.com/rhaken/publisher/assets/39646450/831313f1-f780-4380-ba3c-44817e09603c)
 
+# RunningRabbitMQ
+![image](https://github.com/rhaken/publisher/assets/39646450/cbf617c4-74f3-4369-9b39-35d3bfcf795b)
+
 
