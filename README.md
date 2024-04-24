@@ -10,5 +10,6 @@ URL "amqp://guest:guest@localhost:5672" sama di kedua program publisher dan subs
 Ini berarti bahwa publisher dan subscriber sedang berkomunikasi melalui pialang pesan yang sama, memungkinkan mereka untuk bertukar pesan dengan lancar.
 
 # RunningRabbitMQ
-![image](https://github.com/rhaken/publisher/assets/39646450/05875998-5a68-465d-9689-5a3146607746)
+![image](https://github.com/rhaken/publisher/assets/39646450/831313f1-f780-4380-ba3c-44817e09603c)
+
 
